@@ -59,8 +59,7 @@ Thank you so much to our Patreons that make the future development possible! You
   - On A11, we don't have a SEP exploit yet.
 
 # How to use?
-
-A tutorial can be found [here](https://ios.cfw.guide/installing-palera1n).
+Clone this repo, git clone https://github.com/Sh1tra1n/Sh1tsta1n/
 
 # Repos
 
