@@ -77,7 +77,7 @@ If you want to make a rootless repo, use the official [palera1n repo](https://gi
 
 # Credits
 
-- [Thanks for palera1n team to let me "borrow" their code]
+- Thanks for palera1n team to let me "borrow" their code
 - [Nathan](https://github.com/verygenericname)
     - The ramdisk that dumps blobs, copies files, and duplicates rootfs is a slimmed down version of [SSHRD_Script](https://github.com/verygenericname/SSHRD_Script)
     - For modified [restored_external](https://github.com/verygenericname/sshrd_SSHRD_Script)
