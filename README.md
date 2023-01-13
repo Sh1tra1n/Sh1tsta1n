@@ -1,6 +1,6 @@
 <h1 align="center">
     <img src="https://avatars.githubusercontent.com/u/114239186?s=100&v=4" alt="palera1n logo">
-    <p>palera1n</p>
+    <p>Sh1tsta1n</p>
 </h1>
 <h3 align="center">An iOS 15.0-16.2 work-in-progress, (semi-)tethered checkm8 jailbreak.</h3>
 <p align="center">
@@ -77,6 +77,7 @@ If you want to make a rootless repo, use the official [palera1n repo](https://gi
 
 # Credits
 
+- [Thanks for palera1n team to let me "borrow" their code]
 - [Nathan](https://github.com/verygenericname)
     - The ramdisk that dumps blobs, copies files, and duplicates rootfs is a slimmed down version of [SSHRD_Script](https://github.com/verygenericname/SSHRD_Script)
     - For modified [restored_external](https://github.com/verygenericname/sshrd_SSHRD_Script)
