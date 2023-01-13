@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://avatars.githubusercontent.com/u/114239186?s=100&v=4" alt="palera1n logo">
+    <img src="https://github.com/Sh1tra1n/logos/blob/main/MV5BMTUwMDQxMjI3NF5BMl5BanBnXkFtZTcwMzYzODgxOQ%40%40._V1_QL75_UX500_CR0%2C47%2C500%2C281_(1).jpg"palera1n logo">
     <p>Sh1tsta1n</p>
 </h1>
 <h3 align="center">An iOS 15.0-16.2 work-in-progress, (semi-)tethered checkm8 jailbreak.</h3>
