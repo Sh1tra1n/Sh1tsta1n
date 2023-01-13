@@ -171,7 +171,7 @@ _info() {
 _pwn() {
     pwnd=$(_info recovery PWND)
     if [ "$pwnd" = "" ]; then
-        echo "[*] Pwning device"
+        echo "[*] Pwning your device"
         "$dir"/gaster pwn
         sleep 2
         #"$dir"/gaster reset
@@ -303,7 +303,7 @@ _exit_handler() {
         cd ..
     fi
 
-    echo "[*] A failure log has been made. If you're going ask for help, please attach the latest log."
+    echo "[*] A failure log has been made. You cannot ask for help since this is Sh1tsta1n not palera1n o7"
 }
 trap _exit_handler EXIT
 
